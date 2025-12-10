@@ -3,6 +3,7 @@
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
 | [masakatsube/python_cicd](https://github.com/masakatsube/python_cicd) | 50.0% | - | 1s | ![masakatsube/python_cicd](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/python_cicd/coverage.svg) ![masakatsube/python_cicd](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/python_cicd/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/python_cicd/coverage.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/python_cicd/time.svg)```</details> |
+| [masakatsube/react_cicd](https://github.com/masakatsube/react_cicd) | 85.7% | - | 2s | ![masakatsube/react_cicd](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/react_cicd/coverage.svg) ![masakatsube/react_cicd](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/react_cicd/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/react_cicd/coverage.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/masakatsube/coverage/main/badges/masakatsube/react_cicd/time.svg)```</details> |
 
 ---
 
