@@ -1,0 +1,10 @@
+timeout: 60sec
+central:
+  reports:
+    datastores:
+      - artifact://masakatsube/python_cicd
+  badges:
+    datastores:
+      - local://badges
+  push:
+    enable: true
