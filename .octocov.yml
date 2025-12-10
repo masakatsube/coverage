@@ -3,6 +3,7 @@ central:
   reports:
     datastores:
       - artifact://masakatsube/python_cicd
+      - artifact://masakatsube/react_cicd
   badges:
     datastores:
       - local://badges
