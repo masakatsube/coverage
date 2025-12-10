@@ -5,6 +5,13 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write      # リポジトリへの書き込み（コミット、プッシュ）に必要
+  issues: write        # PRコメント投稿（以前追加済み）
+  pull-requests: write # PRの操作（以前追加済み）
+  actions: read        
+  security-events: write
+
 jobs:
   collect:
     name: Collect metrics using central mode of octocov
