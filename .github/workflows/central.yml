@@ -9,6 +9,9 @@ jobs:
   collect:
     name: Collect metrics using central mode of octocov
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Check out source code
         uses: actions/checkout@v4
